@@ -17,7 +17,7 @@
       "postId": 1
     }
   ],
-  "algo": [
+  "LetterFreq": [
     {
       "Letter": "A",
       "Freq": 20
