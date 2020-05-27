@@ -4,5 +4,5 @@ https://jsonplaceholder.typicode.com/
 
 My Server URL: https://my-json-server.typicode.com/foluis/my-json-serve
 
-Example Server  URL: https://my-json-server.typicode.com/typicode/demo
+Example from JSONPlaceholder: https://my-json-server.typicode.com/typicode/demo
 
