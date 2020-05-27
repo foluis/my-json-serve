@@ -2,8 +2,8 @@
   "ClientField": [
     {
       "id": 1,
-      "URL": "http://simple-form-bootstrap.plataformatec.com.br/documentation"
-      "fieldId": "user_name"
+      "URL": "http://simple-form-bootstrap.plataformatec.com.br/documentation",
+      "fieldId": "user_name",
       "ValueToInject": "2847394738245"
     }
   ],
