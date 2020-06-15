@@ -15,6 +15,14 @@
        "cvs":"657",
        "expirationMonth":"04",
        "expirationYear":"26"
+    },
+    {
+       "customerId": 3938021,
+       "nameOnCard": "Felipe Guzmán",
+       "cardNumber": "4741592643582795",
+       "cvs":"657",
+       "expirationMonth":"04",
+       "expirationYear":"26"
     }],
  "posts": [
     { "id": 1, "title 1": "Post 1" },
