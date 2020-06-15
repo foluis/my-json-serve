@@ -4,17 +4,13 @@
        "customerId": 5345346,
        "nameOnCard": "Luis Forero",
        "cardNumber": "3141592653589793",
-       "cvs":"321",
-       "expirationMonth":"12",
-       "expirationYear":"24"
+       "cvs":"321"
     },
     {
        "customerId": 3938021,
        "nameOnCard": "Alexandra Diaz",
        "cardNumber": "4741592643582795",
-       "cvs":"657",
-       "expirationMonth":"04",
-       "expirationYear":"26"
+       "cvs":"657"
     }],
    "clientsFields": [
     {
