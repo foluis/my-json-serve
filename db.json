@@ -1,7 +1,7 @@
 {
   "clientCreditCard": [
     {
-      "customerId": 5345346,
+      "id": 5345346,
        "nameOnCard": "Luis Forero",
        "cardNumber": "3141592653589793",
        "cvs":"321",
@@ -9,7 +9,7 @@
        "expirationYear":"24"
     },
     {
-       "customerId": 3938021,
+       "id": 3938021,
        "nameOnCard": "Alexandra Diaz",
        "cardNumber": "4741592643582795",
        "cvs":"657",
@@ -17,7 +17,7 @@
        "expirationYear":"26"
     },
     {
-       "customerId": 3938021,
+       "id": 3938021,
        "nameOnCard": "Felipe Guzmán",
        "cardNumber": "4741592643582795",
        "cvs":"657",
