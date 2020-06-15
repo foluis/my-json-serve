@@ -1,4 +1,12 @@
 {
+   "clientCreditCard": 
+    {
+      nameOnCard: "Luis Forero",
+      cardNumber: "3141592653589793",
+      cvs:"321",
+      expirationMonth:"12",
+      expirationYear:"24"
+    },
   "clientsFields": [
     {
       "id": 1,
