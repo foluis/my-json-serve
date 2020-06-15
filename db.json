@@ -1,25 +1,4 @@
 {
-   "clientCreditCard": [
-    {
-       "customerId": 5345346,
-       "nameOnCard": "Luis Forero",
-       "cardNumber": "3141592653589793",
-       "cvs":"321"
-    },
-    {
-       "customerId": 3938021,
-       "nameOnCard": "Alexandra Diaz",
-       "cardNumber": "4741592643582795",
-       "cvs":"657"
-    }],
-   "clientsFields": [
-    {
-      "id": 1,
-      "URL": "http://simple-form-bootstrap.plataformatec.com.br/documentation",
-      "fieldId": "user_name",
-      "ValueToInject": "2847394738245"
-    }
-  ],
  "posts": [
     { "id": 1, "title 1": "Post 1" },
     { "id": 2, "title 2": "Post 2" },
