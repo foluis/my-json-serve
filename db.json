@@ -17,13 +17,22 @@
        "expirationYear":"26"
     },
     {
-       "id": 3938021,
+       "id": 123456,
        "nameOnCard": "Felipe Guzmán",
        "cardNumber": "4741592643582795",
        "cvs":"657",
        "expirationMonth":"04",
        "expirationYear":"26"
-    }],
+    },
+    {
+       "id": 987643,
+       "nameOnCard": "Alejandro Herrera",
+       "cardNumber": "8392333445582795",
+       "cvs":"391",
+       "expirationMonth":"10",
+       "expirationYear":"27"
+    }
+  ],
  "posts": [
     { "id": 1, "title 1": "Post 1" },
     { "id": 2, "title 2": "Post 2" },
