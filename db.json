@@ -2,20 +2,21 @@
    "clientCreditCard": [
     {
        "customerId": 5345346,
-      "nameOnCard": "Luis Forero",
-      "cardNumber": "3141592653589793",
-      "cvs":"321",
-      "expirationMonth":"12",
-      "expirationYear":"24"
-    },{
+       "nameOnCard": "Luis Forero",
+       "cardNumber": "3141592653589793",
+       "cvs":"321",
+       "expirationMonth":"12",
+       "expirationYear":"24"
+    },
+    {
        "customerId": 3938021,
-      "nameOnCard": "Alexandra Diaz",
-      "cardNumber": "4741592643582795",
-      "cvs":"657",
-      "expirationMonth":"04",
-      "expirationYear":"26"
+       "nameOnCard": "Alexandra Diaz",
+       "cardNumber": "4741592643582795",
+       "cvs":"657",
+       "expirationMonth":"04",
+       "expirationYear":"26"
     }],
-  "clientsFields": [
+   "clientsFields": [
     {
       "id": 1,
       "URL": "http://simple-form-bootstrap.plataformatec.com.br/documentation",
@@ -37,8 +38,8 @@
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "body": "some comment 2",
+      "postId": 2
     }
   ],
   "LetterFreq": [
